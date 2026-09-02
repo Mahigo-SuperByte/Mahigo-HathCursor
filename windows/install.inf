@@ -1,0 +1,21 @@
+[Version]
+signature="$CHICAGO$"
+
+[Optional Brands]
+HathCursor
+
+[DefaultInstall]
+CopyFiles = Scheme.Cur, Scheme.Txt
+AddReg    = Scheme.Reg
+
+[Scheme.Reg]
+HKCU,"Control Panel\Cursors\Schemes","HathCursor",0x00010000,"%CUR_DIR%\normal.cur,%CUR_DIR%\select.cur,%CUR_DIR%\working.cur,%CUR_DIR%\busy.cur,%CUR_DIR%\cross.cur,%CUR_DIR%\text.cur,%CUR_DIR%\handwrt.cur,%CUR_DIR%\unavail.cur,%CUR_DIR%\vert.cur,%CUR_DIR%\horiz.cur,%CUR_DIR%\dleft.cur,%CUR_DIR%\dright.cur,%CUR_DIR%\move.cur,%CUR_DIR%\alternate.cur,%CUR_DIR%\link.cur"
+
+[Scheme.Cur]
+normal.cur
+link.cur
+move.cur
+select.cur
+
+[Strings]
+CUR_DIR       = "Attributes\Cursors\HathCursor"
