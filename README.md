@@ -27,7 +27,7 @@ This repository contains raw design assets and compiled system pointers to bring
 4. Go to the **Pointers** tab, select **HathCursor** from the Scheme dropdown menu, and click **Apply**.
 
 ### 🍏 macOS
-1. Install the open-source utility [Mousecape](https://github.com).
+1. Install the open-source utility [Mousecape](https://mousecape.com/).
 2. Download the `macos/HathCursor.cape` file and the raw images from `source_pngs/` into the same directory.
 3. Double-click `HathCursor.cape` to import it into Mousecape.
 4. Hit `Cmd + R` inside Mousecape to apply Mahir's hand cursor to your Mac!
