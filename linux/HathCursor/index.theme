@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=HathCursor
+Comment=My custom real-life hand cursor theme
+Inherits=adwaita
+Example=left_ptr
